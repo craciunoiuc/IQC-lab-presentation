@@ -1,2 +1,4 @@
 # 1-superdense
-This is an implementation of the superdense coding protocol using cirq.
+In this medium exercise, we will understand how the superdense coding protocol is implemented in cirq.
+
+To start the exercise open the provided notebook [*superdense.ipynb*](/2-superdense/superdense.ipynb) and follow the instructions.
